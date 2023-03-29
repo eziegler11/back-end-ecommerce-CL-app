@@ -39,6 +39,17 @@ router.get('/:id', async (req, res) => {
 
 router.post('/', (req, res) => {
   // create a new category
+  const categoryData = (req.body, {
+    category_name: "Category"
+  });
+  Category.create(req.body)
+  .then((category) => {
+    res.status(200).json(category);
+  })
+  .catch((error) => {
+    console.log(error);
+    res.status(400).json(error);
+  });
 });
 
 router.put('/:id', (req, res) => {
