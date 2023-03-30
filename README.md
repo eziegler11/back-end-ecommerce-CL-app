@@ -11,6 +11,7 @@ The steps to install my project are as follows:
 
 - Clone or fork my code from GitHub
 - Install the required dependencies (MySQL2, Sequelize, Express & DotEnv)
+- Source the schema.sql file and then run "npm run seed" to insert the testing data
 - Run the file from the command line using "npm run start"
 - Use Postman or Insomnia to interact with the server, as this app is not live
 - *Recommend* using Nodemon to restart your server automatically
