@@ -20,19 +20,19 @@ The steps to install my project are as follows:
 
 Here is a link to a video of the file running:
 
-[Video Link](https://drive.google.com/file/d/1m4lgAym4SVdwRyNXfQoPTLx9FFFer0ye/view)
+[Video Link](https://drive.google.com/file/d/1cB0k1g5tyx9t_OlUcjqOYn0HVXdmYCdt/view?usp=share_link)
 
-Here is an example of the of the prompts in the app:
+Here is an example of getting all products in Insomnia:
 
-![Photo of prompts used to generate a logo with Inquirer](assets/images/screenshot_3.png)
+![Getting All Products](Assets/Images/Screenshot1.png)
 
-Here is an example of the logo produced after running the app:
+Here is an example of getting all categories in Insomnia:
 
-![Photo of the logo produced after the prompts have been answered](assets/images/screenshot_2.png)
+![Getting All Categories](Assets/Images/Screenshot2.png)
 
-Here is an example of passed tests using Jest:
+Here is an example of getting all tags in Insomnia:
 
-![Photo of app after testing is passed with Jest](assets/images/screenshot_1.png)
+![Getting All Tags](Assets/Images/Screenshot3.png)
 
 ## License
 
